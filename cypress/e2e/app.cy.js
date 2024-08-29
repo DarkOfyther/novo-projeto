@@ -6,6 +6,7 @@ describe("Aplicação de lista de tarefas (To-do) - React", () => {
     item4: "Estudar React",
     item5: "Estudar MongoDB",
   };
+  // gjgj
 
   beforeEach(() => {
     cy.visit("/");
